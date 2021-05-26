@@ -57,27 +57,27 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="DoYouWantToUsePlus?" />
 
         <Button
             android:id="@+id/minus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="DoYOuWantToUSEmiNus?" />
 
         <Button
             android:id="@+id/division"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="DoyOuwaNTtOuSediVide?" />
 
         <Button
             android:id="@+id/multi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="dOyOuWaNttoUsemUlTiPlY?" />
     </LinearLayout>
 </LinearLayout>
